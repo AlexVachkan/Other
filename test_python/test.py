@@ -84,3 +84,7 @@ if __name__ == '__main__':
     # 4 change branches
     # 5 change master product
     # 5 change branches 1
+    # 5 change branches 3
+    # Последние изменение в 3 локальной ветке, проверка изменние в мастере с другой ветки
+    # второй коммит
+
