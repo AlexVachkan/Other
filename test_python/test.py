@@ -75,6 +75,10 @@ if __name__ == '__main__':
     agg_games_year.to_sql(name='agg_games_year', con=engine, if_exists='append', index=False)
     
     # 1 change master product
+    # 1 change branches
     # 2 change master product
+    # 2 change branches
     # 3 change master product
-    
+    # 3 change branches
+
+
